@@ -1,37 +1,174 @@
-## Welcome to GitHub Pages
+<!DOCTYPE HTML>
+<!--
+	My Protfolio
+-->
+<html>
+	<head>
+		<title>SURESH PORTFOLIO</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
 
-You can use the [editor on GitHub](https://github.com/sureshkrishna123/sureshportfolio/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+				<!-- Intro -->
+					<div id="intro">
+						<h1>Suresh Krishna Portfolio<br>
+						</h1>
+						<p> Skilled in Python,SQL,Machine Learning,Excel.   </br><a href="https://www.linkedin.com/in/suresh-krishna-nv/" target="_blank">@Suresh Krishna</a> </p>
+						<ul class="actions">
+							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
+						</ul>
+					</div>
 
-### Markdown
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo">Data Science projects</a>
+					</header>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+				<!-- Nav -->
+					<nav id="nav">
+						<ul class="links">
+							<li class="active"><a href="index.html">Projects</a></li>
+							
+							
+						</ul>
+						<ul class="icons alt">
+							<li><a href="https://www.linkedin.com/in/suresh-krishna-nv/" target="_blank" class="icon brands alt fa-linkedin"><span class="label">Linkedin</span></a></li>
+							<li><a href="https://www.instagram.com/worldofsuresh._/" target="_blank" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="https://github.com/sureshkrishna123" target="_blank" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+						</ul>
+					</nav>
 
-```markdown
-Syntax highlighted code block
+				<!-- Main -->
+					<div id="main">
 
-# Header 1
-## Header 2
-### Header 3
+						<!--(Main project)Featured Post -->
+							<article class="post featured">
+								<header class="major">
+									
+									<h2><a href="https://github.com/sureshkrishna123/PortfolioProjects/blob/main/basketball%20teams%20.ipynb" target="_blank">DATA SCience PROJECT<br />
+									</a></h2>
+									<p>In this project we are going to use Pandas libary for Data Wrangling, using Matplotlib and Seaborn libaries for plotting the data(Data Visualization),
+										 using sklearn library for Machine Learning and making the ML models(Model Development) and finally doing Model Evaluation. <br>This project to determine which basketball teams are most likely to make it to the semifinal round of the College Basketball Tournament known as the Final Four.</p>
+                                                                                                                                                                                                                     
+									
+								</header>
+								<a href="https://github.com/sureshkrishna123/PortfolioProjects/blob/main/basketball%20teams%20.ipynb" target="_blank" class="image main"><img src="images/bb.png" alt="" /></a>
+								<ul class="actions special">
+									<li><a href="https://github.com/sureshkrishna123/PortfolioProjects/blob/main/basketball%20teams%20.ipynb"  target="_blank"class="button large">VIEW PROJECT</a></li>
+								</ul>
+							</article>
 
-- Bulleted
-- List
+						<!-- Posts -->
+							<section class="posts">
+								<article>
+									<header>
+						<!-- 2nd project -->				
+			
+										<h2><a href="https://github.com/sureshkrishna123/PortfolioProjects/blob/main/Basic%20data%20exploration.ipynb" target="_blank">DATA EXPLORATION IN PYTHON<br />
+										</a></h2>
+									</header>
+									<a href="https://github.com/sureshkrishna123/PortfolioProjects/blob/main/Basic%20data%20exploration.ipynb" target="_blank" class="image fit"><img src="images/Exponential-Data-Analysis.jpg" alt="" /></a>
+									<p>In this we are doing some basic Data Exploration using Pandas library</p>
+									<ul class="actions special">
+										<li><a href="https://github.com/sureshkrishna123/PortfolioProjects/blob/main/Basic%20data%20exploration.ipynb" target="_blank" class="button">VIEW PROJECT</a></li>
+										
+									</ul>
+								</article>
+								<article>
+									<header>
+						<!-- 3rd project-->				
+										<h2><a href="https://github.com/sureshkrishna123/PortfolioProjects/blob/main/KMeans.ipynb" target="_blank">KMeans Algorithm<br />
+										</a></h2>
+									</header>
+									<a href="https://github.com/sureshkrishna123/PortfolioProjects/blob/main/KMeans.ipynb" target="_blank" class="image fit"><img src="images/kmeans.png" alt="" /></a>
+									<p>In this,first we clean the data and making clusters using KMeans alagorithm and plotting this.</p>
+									<ul class="actions special">
+										<li><a href="https://github.com/sureshkrishna123/PortfolioProjects/blob/main/KMeans.ipynb" target="_blank" class="button">VIEW PROJECT</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+						<!--4th project-->				
+										<h2><a href="https://github.com/sureshkrishna123/PortfolioProjects/blob/main/Linear_and_Polynomial_Regression.ipynb" target="_blank">Linear Regression, Polynomial Regression algorithm and Plotting the data <br />
+										</a></h2>
+									</header>
+									<a href="https://github.com/sureshkrishna123/PortfolioProjects/blob/main/Linear_and_Polynomial_Regression.ipynb" target="_blank"class="image fit"><img src="images/lr.png" alt="" /></a>
+									<p>In this project we are going to do the ML algorithm, Linear Regression,Polynomial Regression using sklearn library and plot the graph using Matplotlib or Seaborn library</p>
+									<ul class="actions special">
+										<li><a href="https://github.com/sureshkrishna123/PortfolioProjects/blob/main/Linear_and_Polynomial_Regression.ipynb" target="_blank" class="button">VIEW PROJECT</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+						<!--5th project-->				
+										<h2><a href="https://github.com/sureshkrishna123/PortfolioProjects/blob/main/Decision_tree_and_K_Nearest_Neighbors.ipynb" target="_blank">K-Nearest Neighbors algorithm, Decision tree and Plotting the data <br />
+										</a></h2>
+									</header>
+									<a href="https://github.com/sureshkrishna123/PortfolioProjects/blob/main/Decision_tree_and_K_Nearest_Neighbors.ipynb" target="_blank"class="image fit"><img src="images/knn.png" alt="" /></a>
+									<p>In this project we are going to do the ML algorithm, K-Nearest Neighbors algorithm, Decision tree using sklearn library and plot the graph using Matplotlib or Seaborn library</p>
+									<ul class="actions special">
+										<li><a href="https://github.com/sureshkrishna123/PortfolioProjects/blob/main/Decision_tree_and_K_Nearest_Neighbors.ipynb" target="_blank" class="button">VIEW PROJECT</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+							</section>
 
-1. Numbered
-2. List
+						
+						<!--<footer>
+								<div class="pagination">
+									
+									<a href="#" class="page active">1</a>
+									<a href="#" class="page">2</a>
+									<a href="#" class="page">3</a>
+									<span class="extra">&hellip;</span>
+									<a href="#" class="page">8</a>
+									<a href="#" class="page">9</a>
+									<a href="#" class="page">10</a>
+									<a href="#" class="next">Next</a>
+								</div>
+							</footer>-->	
 
-**Bold** and _Italic_ and `Code` text
+					</div>
 
-[Link](url) and ![Image](src)
-```
+				
+					<footer id="footer">
+						
+						<section class="split contact">
+							
+							<section>
+								<h3>Email</h3>
+								<p>sureshkrishnanv24@gmail.com</p>
+							</section>
+							<section>
+								<h3>Social</h3>
+								<ul class="icons alt">
+									<li><a href="https://www.linkedin.com/in/suresh-krishna-nv/" target="_blank" class="icon brands alt fa-linkedin"><span class="label">Linkedin</span></a></li>
+									<li><a href="https://www.instagram.com/worldofsuresh._/" target="_blank" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
+									<li><a href="https://github.com/sureshkrishna123" target="_blank" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+								</ul>
+							</section>
+						</section>
+					</footer>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+				
 
-### Jekyll Themes
+			</div>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sureshkrishna123/sureshportfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+	</body>
+</html>
